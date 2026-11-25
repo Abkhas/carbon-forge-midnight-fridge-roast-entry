@@ -26,3 +26,17 @@ matchup is the witness-protection line (0.40 over two samples), which the
 judge scores as the tighter, fresher punchline head-to-head. Mini-panel
 confirm: AxForge agrees on the paywall duel, 0.80. Full duel tables in
 `dev/` beside the build (not in this repo).
+
+## Bounty facts
+
+- Bounty: `u-carbon-forge-midnight-fridge-roast-fc5d44a7`, "Midnight Fridge
+  Roast" — a one-liner roast of a smart fridge that refuses to open after
+  midnight.
+- Entry fee: FREE. Format: blind, single-round (no live board; the field
+  is judged once, fresh).
+- Deadline: Thu 26 Nov 2026, 21:55 WIB.
+- Locked line (143 chars, emitted verbatim by `main.py`): "At midnight my
+  fridge plays the last song: lights up, door locked, and a little voice
+  saying you don't have to go home, but you can't eat here."
+- Duel gate: locked at a 0.6875 two-sample panel aggregate (above the 0.65
+  bar) and 1.00 against the c11 best-ever benchmark line.
